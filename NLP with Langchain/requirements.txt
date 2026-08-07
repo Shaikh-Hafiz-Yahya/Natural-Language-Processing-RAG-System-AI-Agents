@@ -1,0 +1,7 @@
+langchain
+langchain-community
+pypdf
+beautifulsoup4
+lxml 
+nest_asyncio  
+tqdm

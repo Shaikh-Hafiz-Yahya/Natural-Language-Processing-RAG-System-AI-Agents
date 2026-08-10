@@ -5,3 +5,5 @@ beautifulsoup4
 lxml 
 nest_asyncio  
 tqdm
+youtube-transcript-api
+pytube

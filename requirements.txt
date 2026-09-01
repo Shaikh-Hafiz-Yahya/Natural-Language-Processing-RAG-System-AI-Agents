@@ -7,3 +7,4 @@ nest_asyncio
 tqdm
 youtube-transcript-api
 pytube
+langchain-text-splitters

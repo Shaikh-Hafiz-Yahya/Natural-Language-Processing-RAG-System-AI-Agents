@@ -8,3 +8,4 @@ tqdm
 youtube-transcript-api
 pytube
 langchain-text-splitters
+tiktoken
